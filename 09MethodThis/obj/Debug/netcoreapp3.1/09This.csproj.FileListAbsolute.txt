@@ -1,0 +1,17 @@
+C:\Users\abel\web\exercicios\c#\OOP\09This\obj\Debug\netcoreapp3.1\09This.csprojAssemblyReference.cache
+C:\Users\abel\web\exercicios\c#\OOP\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfoInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfo.cs
+C:\Users\abel\web\exercicios\c#\OOP\09This\obj\Debug\netcoreapp3.1\09This.csproj.CoreCompileInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\obj\Debug\netcoreapp3.1\09This.csprojAssemblyReference.cache
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\obj\Debug\netcoreapp3.1\09This.AssemblyInfoInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\obj\Debug\netcoreapp3.1\09This.AssemblyInfo.cs
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\obj\Debug\netcoreapp3.1\09This.csproj.CoreCompileInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\bin\Debug\netcoreapp3.1\09This.exe
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\bin\Debug\netcoreapp3.1\09This.deps.json
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\bin\Debug\netcoreapp3.1\09This.runtimeconfig.json
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\bin\Debug\netcoreapp3.1\09This.runtimeconfig.dev.json
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\bin\Debug\netcoreapp3.1\09This.dll
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\bin\Debug\netcoreapp3.1\09This.pdb
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\obj\Debug\netcoreapp3.1\09This.dll
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\obj\Debug\netcoreapp3.1\09This.pdb
+C:\Users\abel\web\exercicios\c#\OOP\09MethodThis\obj\Debug\netcoreapp3.1\09This.genruntimeconfig.cache

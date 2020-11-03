@@ -1,0 +1,13 @@
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.csprojAssemblyReference.cache
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.AssemblyInfoInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.AssemblyInfo.cs
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.exe
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.deps.json
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.runtimeconfig.json
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.runtimeconfig.dev.json
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.dll
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\bin\Debug\netcoreapp3.1\13Abstracao.pdb
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.dll
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.pdb
+C:\Users\abel\web\exercicios\c#\OOP\13Abstracao\obj\Debug\netcoreapp3.1\13Abstracao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\bin\Debug\netcoreapp3.1\14Interface.exe
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\bin\Debug\netcoreapp3.1\14Interface.deps.json
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\bin\Debug\netcoreapp3.1\14Interface.runtimeconfig.json
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\bin\Debug\netcoreapp3.1\14Interface.runtimeconfig.dev.json
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\bin\Debug\netcoreapp3.1\14Interface.dll
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\bin\Debug\netcoreapp3.1\14Interface.pdb
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\obj\Debug\netcoreapp3.1\14Interface.csprojAssemblyReference.cache
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\obj\Debug\netcoreapp3.1\14Interface.AssemblyInfoInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\obj\Debug\netcoreapp3.1\14Interface.AssemblyInfo.cs
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\obj\Debug\netcoreapp3.1\14Interface.csproj.CoreCompileInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\obj\Debug\netcoreapp3.1\14Interface.dll
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\obj\Debug\netcoreapp3.1\14Interface.pdb
+C:\Users\abel\web\exercicios\c#\OOP\14Interface\obj\Debug\netcoreapp3.1\14Interface.genruntimeconfig.cache

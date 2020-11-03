@@ -1,0 +1,13 @@
+C:\Users\abel\web\exercicios\c#\OOP\12Static\bin\Debug\netcoreapp3.1\12Static.exe
+C:\Users\abel\web\exercicios\c#\OOP\12Static\bin\Debug\netcoreapp3.1\12Static.deps.json
+C:\Users\abel\web\exercicios\c#\OOP\12Static\bin\Debug\netcoreapp3.1\12Static.runtimeconfig.json
+C:\Users\abel\web\exercicios\c#\OOP\12Static\bin\Debug\netcoreapp3.1\12Static.runtimeconfig.dev.json
+C:\Users\abel\web\exercicios\c#\OOP\12Static\bin\Debug\netcoreapp3.1\12Static.dll
+C:\Users\abel\web\exercicios\c#\OOP\12Static\bin\Debug\netcoreapp3.1\12Static.pdb
+C:\Users\abel\web\exercicios\c#\OOP\12Static\obj\Debug\netcoreapp3.1\12Static.csprojAssemblyReference.cache
+C:\Users\abel\web\exercicios\c#\OOP\12Static\obj\Debug\netcoreapp3.1\12Static.AssemblyInfoInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\12Static\obj\Debug\netcoreapp3.1\12Static.AssemblyInfo.cs
+C:\Users\abel\web\exercicios\c#\OOP\12Static\obj\Debug\netcoreapp3.1\12Static.csproj.CoreCompileInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\12Static\obj\Debug\netcoreapp3.1\12Static.dll
+C:\Users\abel\web\exercicios\c#\OOP\12Static\obj\Debug\netcoreapp3.1\12Static.pdb
+C:\Users\abel\web\exercicios\c#\OOP\12Static\obj\Debug\netcoreapp3.1\12Static.genruntimeconfig.cache

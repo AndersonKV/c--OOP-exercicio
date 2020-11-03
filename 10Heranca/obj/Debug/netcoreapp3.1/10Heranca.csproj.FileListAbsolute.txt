@@ -1,0 +1,13 @@
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.csprojAssemblyReference.cache
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.AssemblyInfoInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.AssemblyInfo.cs
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.csproj.CoreCompileInputs.cache
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.exe
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.deps.json
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.runtimeconfig.json
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.runtimeconfig.dev.json
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.dll
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.pdb
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.dll
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.pdb
+C:\Users\abel\web\exercicios\c#\OOP\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.genruntimeconfig.cache
